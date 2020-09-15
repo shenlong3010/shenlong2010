@@ -10,3 +10,8 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on any open source project
 - 😄 Pronouns: you can call me Luke
+
+<br />
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px"]
