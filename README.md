@@ -27,8 +27,7 @@
 
 </details>
 
-Credits: 
+Credits:
 <br />
 GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-<br />
-https://github.com/codeSTACKr/codeSTACKr
+
