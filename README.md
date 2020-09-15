@@ -1,9 +1,10 @@
-### Hi there, my name is Loc 👋 Nice to meet you.
+### Hi there, my name is Loc 👋 Nice to meet you
 
 <!--
 **shenlong2010/shenlong2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
+## I'm a Student at Drexel University
 
 - 🔭 I’m currently working on a small project for my resume
 - 🌱 I’m currently learning everything
