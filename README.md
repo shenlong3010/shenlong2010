@@ -26,3 +26,8 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
+
+
+Credits: 
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/codeSTACKr/codeSTACKr
