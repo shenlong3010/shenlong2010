@@ -14,4 +14,4 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png"/>
+<img src="visual-studio-code.png" alt="Visual Studio Code" align="left" width="26px" />
