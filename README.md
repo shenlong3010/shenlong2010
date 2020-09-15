@@ -14,4 +14,4 @@
 <br />
 
 ### Languages and Tools:
-<img src="visual-studio-code.png" align="left" width="26px" />
+![GitHub Logo](/images/logo.png)
