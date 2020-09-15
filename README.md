@@ -27,6 +27,8 @@
 
 </details>
 
+<br />
+
 Credits:
 <br />
 GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
