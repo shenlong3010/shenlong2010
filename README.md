@@ -25,3 +25,4 @@
 
 </details>
 ![Loc's github stats](https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true&hide_border=true)
+[![Loc's github stats](https://github-readme-stats.vercel.app/api?username=shenlong2010)](https://github.com/shenlong2010/github-readme-stats)
