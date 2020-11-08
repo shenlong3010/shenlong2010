@@ -6,7 +6,7 @@
 
 ## I'm currently a student at Drexel University major in CS, minor in SE
 
-- 🔭 I’m currently working on a small project for my resume
+- 🔭 I code everyday
 - 🌱 I'm willing to learn anything by the way
 - 👯 I’m not an expert but would love to collaborate on any open source project
 - 😄 Pronouns: you can call me Luke (my name is hard to say correctly)
