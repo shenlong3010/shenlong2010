@@ -23,7 +23,7 @@
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true" />
+<img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true" /><br />
 
 
 Credits:
