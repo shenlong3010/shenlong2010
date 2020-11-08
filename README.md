@@ -21,12 +21,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenlong2010&layout=compact)](https://github.com/shenlong2010/github-readme-stats)
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true&theme=radical" />
-
-</details>
+<img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong2010&show_icons=true&theme=radical" />
 
 Credits:
 <br />
