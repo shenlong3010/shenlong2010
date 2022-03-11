@@ -24,10 +24,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenlong3010&layout=compact)](https://github.com/shenlong3010/github-readme-stats)
 
 
-###:zap:Github Stats
+### :zap:Github Stats
 
 <img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong3010&show_icons=true" />
-<br>
+<br><br>
 <details> 
   <summary> Credits: </summary>
     GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats 
