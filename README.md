@@ -25,9 +25,9 @@
 
 
 ### :zap:Github Stats
-
 <img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong3010&show_icons=true" />
-<br><br>
+
+#### Credits
 <details> 
   <summary> Credits: </summary>
     GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats 
