@@ -4,7 +4,7 @@
 **shenlong2010/shenlong2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm currently a student at Drexel University major in CS, minor in SE
+## I'm currently a student at Drexel University major in CS
 
 - 🔭 I code everyday
 - 🌱 I'm willing to learn anything by the way
