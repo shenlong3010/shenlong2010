@@ -8,7 +8,7 @@
 
 - 🔭 I code everyday
 - 🌱 I'm willing to learn anything by the way
-- 👯 I’m not an expert but would love to collaborate on any open source project
+- 👯 I'm experimenting on open-source projects
 - 😄 Pronouns: you can call me Luke (my name is hard to say correctly)
 
 ### Languages and Tools:
