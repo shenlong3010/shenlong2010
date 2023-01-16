@@ -20,11 +20,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenlong3010&layout=compact)](https://github.com/shenlong3010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenlong3010)](https://github.com/shenlong3010/github-readme-stats)
 
 
 ### :zap:Github Stats:
-<img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong3010&show_icons=true" />
+<img align="left" alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shenlong3010" />
 <br><br><br><br><br><br><br><br><br>
 
 #### Credits
